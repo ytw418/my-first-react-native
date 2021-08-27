@@ -14,3 +14,5 @@ cd react-native-hooks
 npm install
 npm start
 ```
+
+랜덤 강아지 사진 

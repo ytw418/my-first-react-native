@@ -2,6 +2,7 @@ import React from 'react';
 import { View } from 'react-native';
 import EventButton from './components/EventButton';
 import EventInput from './components/EventInput';
+import Counter from './components/Counter';
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
     >
       <EventButton />
       <EventInput />
+      <Counter/>
     </View>
   );
 };
@@ -26,7 +28,7 @@ export default App;
 import React from 'react';
 import { View } from 'react-native';
 import Counter from './components/Counter';
-
+w
 const App = () => {
   return (
     <View

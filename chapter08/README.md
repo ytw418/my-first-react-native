@@ -8,6 +8,7 @@
 cd react-native-navigation
 ```
 
+
 2. 종속성 설치 및 실행
 
 ```

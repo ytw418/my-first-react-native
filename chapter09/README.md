@@ -19,7 +19,7 @@ expo install expo-app-loading
 1. 디렉터리 이동
 
 ```
-cd react-native-simple-chat
+cd chapter09/react-native-simple-chat
 ```
 
 2. 종속성 설치 및 실행
