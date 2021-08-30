@@ -15,7 +15,7 @@
     "expo": "^41.0.0",
     "expo-app-loading": "^1.0.3",
     "expo-image-picker": "~10.1.4",
-    "firebase": "^8.2.3",
+    "firebase": "^8.10.0",
     "moment": "^2.27.0",
     "prop-types": "^15.7.2",
     "react": "16.13.1",

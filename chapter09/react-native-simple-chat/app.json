@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "Simple Chat",
-    "slug": "react-native-simple-chat",
-    "version": "1.0.0",
+    "name": "allmaptalk",
+    "slug": "allmaptalk",
+    "version": "0.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -15,7 +15,7 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.alchemistk.rnsimplechat",
+      "bundleIdentifier": "com.ALLMAPTalk.ytw418",
       "buildNumber": "1.0.0",
       "supportsTablet": false,
       "infoPlist": {
@@ -23,7 +23,7 @@
       }
     },
     "android": {
-      "package": "com.alchemistk.rnsimplechat",
+      "package": "com.ALLMAPTalk.ytw418",
       "versionCode": 1,
       "permissions": ["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"],
       "icon": "./assets/android-icon.png",
