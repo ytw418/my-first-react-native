@@ -15,7 +15,7 @@
     },
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "bundleIdentifier": "com.ALLMAPTalk.ytw418",
+      "bundleIdentifier": "com.ALLMAP.ALLMAPTalk",
       "buildNumber": "1.0.0",
       "supportsTablet": false,
       "infoPlist": {
@@ -23,7 +23,7 @@
       }
     },
     "android": {
-      "package": "com.ALLMAPTalk.ytw418",
+      "package": "com.ALLMAP.ALLMAPTalk",
       "versionCode": 1,
       "permissions": ["READ_EXTERNAL_STORAGE", "WRITE_EXTERNAL_STORAGE"],
       "icon": "./assets/android-icon.png",
